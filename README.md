@@ -1,4 +1,4 @@
-# Saumya-s_Potfolio
+# Saumya-s_Portfolio
 
 # 1. See what you've changed
 git status
